@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smrityyy
-- 👀 I’m interested in video editing , seo , python
+- 👀 I’m interested in ML,CYBER SECURITY
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - smritichandravanshi90@gmail.com
